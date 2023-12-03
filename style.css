@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #ffd700;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cake-image,
+.balloons-image {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #ff4500;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333;
+}
